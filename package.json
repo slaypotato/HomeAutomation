@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "mockingoose": "^2.15.2"
+  }
+}
